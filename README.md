@@ -9,6 +9,8 @@ CIFAKE is a dataset that contains 60,000 synthetically-generated images and 60,0
 
 Further information on this dataset can be found here: [Bird, J.J., Lotfi, A. (2023). CIFAKE: Image Classification and Explainable Identification of AI-Generated Synthetic Images. arXiv preprint arXiv:2303.14126.](https://arxiv.org/abs/2303.14126)
 
+![Images from the CIFAKE dataset](https://i.imgur.com/RiOwf8i.png)
+
 ## Dataset details
 The dataset contains two classes - REAL and FAKE. 
 
