@@ -30,9 +30,9 @@ If you use this dataset, you **must** cite the following sources
 
 [Krizhevsky, A., & Hinton, G. (2009). Learning multiple layers of features from tiny images.](https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdfl)
 
-[Bird, J.J., Lotfi, A. (2023). CIFAKE: Image Classification and Explainable Identification of AI-Generated Synthetic Images. arXiv preprint arXiv:2303.14126.](https://arxiv.org/abs/2303.14126)
+[Bird, J.J. and Lotfi, A., 2024. CIFAKE: Image Classification and Explainable Identification of AI-Generated Synthetic Images. IEEE Access.](https://ieeexplore.ieee.org/abstract/document/10409290)
 
-Real images are from Krizhevsky & Hinton (2009), fake images are from Bird & Lotfi (2023). The Bird & Lotfi study is a preprint currently available on [ArXiv](https://arxiv.org/abs/2303.14126) and this description will be updated when the paper is published.
+Real images are from Krizhevsky & Hinton (2009), fake images are from Bird & Lotfi (2024). The Bird & Lotfi study is available [here](https://ieeexplore.ieee.org/abstract/document/10409290).
 
 ## Notes
 
